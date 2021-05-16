@@ -1,4 +1,4 @@
-### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PreethiSamanthaBennet" alt="https://github.com/PreethiSamanthaBennet" width="150" /> </p>
 
 <!--
 **PreethiSamanthaBennet/PreethiSamanthaBennet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
