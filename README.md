@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PreethiSamanthaBennet" alt="https://github.com/PreethiSamanthaBennet" width="150" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PreethiSamanthaBennet&color=yellow" alt="https://github.com/PreethiSamanthaBennet" width="150" /> </p>
 
 <p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreethiSamanthaBennet&layout=compact&theme=radical" alt="languages" height="100"> </p>
 
