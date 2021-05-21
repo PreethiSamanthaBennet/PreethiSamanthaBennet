@@ -2,6 +2,7 @@
 
 ### Check out @DeepthiTabithaBennet !
 
+### Miscellaneous : 
 <p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreethiSamanthaBennet&layout=compact&theme=radical" alt="languages" height="100"> </p>
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=PreethiSamanthaBennet&show_icons=true&theme=radical" alt="my github stats" width="400"/>&nbsp; </p>
