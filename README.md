@@ -5,7 +5,7 @@
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=PreethiSamanthaBennet&show_icons=true&theme=radical" alt="my github stats" width="400"/>&nbsp; </p>
 
-### Check out [@DeepthiTabithaBennet](https://github.com/DeepthiTabithaBennet) !
+### Check out [`@DeepthiTabithaBennet`](https://github.com/DeepthiTabithaBennet) !
 
 <!--
 **PreethiSamanthaBennet/PreethiSamanthaBennet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
