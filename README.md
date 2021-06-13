@@ -5,6 +5,8 @@
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=PreethiSamanthaBennet&show_icons=true&theme=radical" alt="my github stats" width="400"/>&nbsp; </p>
 
+[![PreethiSamanthaBennet's github activity graph](https://activity-graph.herokuapp.com/graph?username=PreethiSamanthaBennet&theme=redical&hide_title=true)](https://github.com/PreethiSamanthaBennet/github-readme-activity-graph)
+
 ### Check out [`@DeepthiTabithaBennet`](https://github.com/DeepthiTabithaBennet) !
 
 <!--
