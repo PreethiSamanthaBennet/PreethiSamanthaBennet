@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PreethiSamanthaBennet&color=yellow" alt="https://github.com/PreethiSamanthaBennet" width="150" /> </p>
 
 ### About Me :
-* Statistician ➕➖✖️➗
 * Future Data Scientist 👩‍💻
+* Statistician ➕➖✖️➗
 * Music Aficionado 🎧
 * Happy Doodler ✏️
 
