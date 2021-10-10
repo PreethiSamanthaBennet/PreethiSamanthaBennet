@@ -22,8 +22,7 @@
 
 [![PreethiSamanthaBennet's github activity graph](https://activity-graph.herokuapp.com/graph?username=PreethiSamanthaBennet&theme=redical&hide_title=true)](https://github.com/PreethiSamanthaBennet/github-readme-activity-graph)
 
-Check out 
-🌟[`@DeepthiTabithaBennet`](https://github.com/DeepthiTabithaBennet)🌟
+Check out ✨[`@DeepthiTabithaBennet`](https://github.com/DeepthiTabithaBennet)✨
 
 <!--
 **PreethiSamanthaBennet/PreethiSamanthaBennet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
