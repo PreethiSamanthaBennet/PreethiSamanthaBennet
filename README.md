@@ -12,6 +12,7 @@
 ### Follow me @ :   
 [![GitHub](https://img.shields.io/badge/-GitHub-fe428e?style=for-the-badge&logo=github&logoColor=a9fef7)](https://github.com/PreethiSamanthaBennet)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-fe428e?style=for-the-badge&logo=stackoverflow&logoColor=a9fef7)](https://stackoverflow.com/users/17112314/preethisamanthabennet)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-fe428e?style=for-the-badge&logo=kaggle&logoColor=a9fef7)](https://www.kaggle.com/preethibennet)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-fe428e?style=for-the-badge&logo=sololearn&logoColor=a9fef7)](https://www.sololearn.com/Profile/17994358/?ref=app) 
 [![HackerRank](https://img.shields.io/badge/-HackerRank-fe428e?style=for-the-badge&logo=hackerrank&logoColor=a9fef7)](https://www.hackerrank.com/preethibennet)
 
