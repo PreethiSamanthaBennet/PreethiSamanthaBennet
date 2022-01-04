@@ -2,7 +2,7 @@
 
 ### About Me :
 * Future Data Scientist 👩‍💻
-* Journal Paper Author 📄
+* SCOPUS Journal Paper Author 📄
 * Music Aficionado 🎧
 * Happy Doodler ✏️
 
