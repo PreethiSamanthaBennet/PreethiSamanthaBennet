@@ -1,6 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PreethiSamanthaBennet&color=yellow" alt="https://github.com/PreethiSamanthaBennet" width="150" /> </p>
 
-### About Me :
+### About Me :   <img src="https://user-images.githubusercontent.com/82455813/148983568-3953d908-87e2-4be7-914f-38a8b2a167f6.gif" height="175" align="right">
+
 * Future Data Scientist 👩‍💻
 * SCOPUS Journal Paper Author 📄
 * Music Aficionado 🎧
