@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/-C-fe428e?style=for-the-badge&logo=c&logoColor=a9fef7" height="30">   <img src="https://img.shields.io/badge/-C++-fe428e?style=for-the-badge&logo=c%2B%2B&logoColor=a9fef7" height="30">   <img src="http://img.shields.io/badge/-Python-fe428e?style=for-the-badge&logo=python&logoColor=a9fef7" height="30">   <img src="http://img.shields.io/badge/-WordPress-fe428e?style=for-the-badge&logo=wordpress&logoColor=a9fef7" height="30"> 
 
 ### Follow me @ :   
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-fe428e?style=for-the-badge&logo=linkedin&logoColor=a9fef7)](https://www.linkedin.com/in/preethi-samantha-bennet-33668822a)
 [![GitHub](https://img.shields.io/badge/-GitHub-fe428e?style=for-the-badge&logo=github&logoColor=a9fef7)](https://github.com/PreethiSamanthaBennet)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-fe428e?style=for-the-badge&logo=stackoverflow&logoColor=a9fef7)](https://stackoverflow.com/users/17112314/preethisamanthabennet)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-fe428e?style=for-the-badge&logo=kaggle&logoColor=a9fef7)](https://www.kaggle.com/preethibennet)
